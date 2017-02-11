@@ -1,0 +1,7 @@
+-e .
+-r requirements.txt
+
+# Documentation
+sphinx ~= 1.4.1
+sphinx-rtd-theme ~= 0.1.9
+sphinxcontrib-napoleon ~= 0.5.0

@@ -1,0 +1,9 @@
+# Linters
+flake8 ~= 2.5.4
+flake8-blind-except ~= 0.1.0
+flake8-docstrings ~= 0.2.4
+flake8-import-order ~= 0.7.0
+pep8-naming ~= 0.3.3
+flake8-quotes ~= 0.3.0
+flake8-pep3101 ~= 0.2
+flake8-mock ~= 0.1

@@ -1,0 +1,7 @@
+# Config dependencies
+docopt ~= 0.6.2
+# Flask dependencies
+Flask-RESTful ~= 0.3.5
+Flask-HTTPAuth ~= 3.2.1
+# Timestring for parsing datetimes from strings
+timestring ~= 1.6.2
